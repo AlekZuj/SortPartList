@@ -1,0 +1,35 @@
+15:49:13 / 02.06.2019 AlekZBook AV    1967
+15:51:12 / 02.06.2019 AlekZBook BL    2152ms
+16:05:30 / 02.06.2019 AlekZBook AV    1986ms
+16:06:45 / 02.06.2019 AlekZBook a    2039ms
+20:19:22 / 03.06.2019 AlekZBook AV    2153ms
+18:45:05 / 04.06.2019 V0.5 AlekZBook AV    3079ms
+18:50:51 / 04.06.2019 V0.5 AlekZBook AV    2143ms
+18:53:18 / 04.06.2019 V0.5 AlekZBook AV    2210ms
+18:53:55 / 04.06.2019 V0.5 AlekZBook AV    2155ms
+19:08:52 / 04.06.2019 V0.5 AlekZBook AV    2032ms
+19:10:26 / 04.06.2019 V0.5 AlekZBook AV    2018ms
+19:13:57 / 04.06.2019 V0.5 AlekZBook AV    2200ms
+19:15:52 / 04.06.2019 V0.5 AlekZBook AV    2053ms
+19:28:01 / 04.06.2019 V0.5 AlekZBook AV    2006ms
+19:37:07 / 04.06.2019 V0.5 AlekZBook AV    2281ms
+19:45:30 / 04.06.2019 V0.5 AlekZBook AV    2108ms
+19:46:50 / 04.06.2019 V0.5 AlekZBook AV    2104ms
+19:48:49 / 04.06.2019 V0.5 AlekZBook AV    2587ms
+19:51:59 / 04.06.2019 V0.5 AlekZBook AV    2049ms
+19:55:26 / 04.06.2019 V0.5 AlekZBook AV    2025ms
+19:57:57 / 04.06.2019 V0.5 AlekZBook AV    2409ms
+20:01:08 / 04.06.2019 V0.5 AlekZBook AV    2066ms
+20:32:07 / 04.06.2019 V0.5 AlekZBook AV    2151ms
+20:45:23 / 04.06.2019 V0.5 AlekZBook AV    2106ms
+20:46:24 / 04.06.2019 V0.5 AlekZBook AV java.io.IOException   1014ms
+20:47:37 / 04.06.2019 V0.5 AlekZBook AV    2099ms
+20:49:12 / 04.06.2019 V0.5 AlekZBook AV    1986ms
+12:52:32 / 09.06.2019 V0.5 AlekZBook AV   java.io.FileNotFoundException: e:\first\Перечень деталей AV.xlsx (Процесс не может получить доступ к файлу, так как этот файл занят другим процессом) 2298ms
+12:53:04 / 09.06.2019 V0.5 AlekZBook AV    1958ms
+13:07:51 / 09.06.2019 V0.6 AlekZBook AVAV    2197ms
+13:14:51 / 09.06.2019 V0.6 AlekZBook AVAV    2231ms
+13:18:33 / 09.06.2019 V0.6 AlekZBook AVAV    2185ms
+13:24:43 / 09.06.2019 V0.6 AlekZBook AVAV    2346ms
+23:37:12 / 09.06.2019 V0.6 AlekZBook AVAV    3442ms
+22:15:10 / 10.06.2019 V0.6 AlekZBook qqq    2191ms
