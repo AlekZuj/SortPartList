@@ -1,6 +1,7 @@
 //v 0.1-0.4 - try to read and write file? sorting AllayList.
 //v 0.5 - introduced design and reminder elements. Testing started.
 //v 0.6 - changed methods of making cell styles. NULL check added in delete enter method.
+//v 0.7 - set Times New Roman font, dates like 11-2019 in designation changed to 11-11.
 
 package net.ukr.zuj_as;
 
@@ -22,7 +23,7 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-		String version = "0.6";
+		String version = "0.7";
 		System.out.println("SortPartList V " + version + " by AlekZ");
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Inpun target file path (E:\\First\\List.xlsx): ");

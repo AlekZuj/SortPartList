@@ -238,7 +238,15 @@ public class ReadExcelFile {
 
 	protected String dateToString(Date date) {
 		SimpleDateFormat df = new SimpleDateFormat("MM-yyyy");
-		String str = "_" + df.format(date);
+		SimpleDateFormat dfMonth = new SimpleDateFormat("MM");
+		SimpleDateFormat dfDay = new SimpleDateFormat("dd");
+		SimpleDateFormat dfYear = new SimpleDateFormat("yyyy");
+		String str = "_";
+		if (!dfYear.format(date).equals("2019")) {
+		str += df.format(date);
+		} else {
+			str +=dfMonth.format(date)+"-"+dfDay.format(date);
+		}
 		return str;
 	}
 }

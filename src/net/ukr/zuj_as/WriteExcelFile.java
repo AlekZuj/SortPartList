@@ -147,6 +147,7 @@ public class WriteExcelFile {
 		cellStyle.setFillPattern(FillPatternType.SOLID_FOREGROUND);
 		Font font = wb.createFont();
 		font.setFontHeightInPoints((short) fontSize);
+		font.setFontName("Times New Roman");
 		font.setBold(fontBold);
 		cellStyle.setFont(font);
 		cellStyle.setWrapText(wrapped);
@@ -194,6 +195,7 @@ public class WriteExcelFile {
 		Font font = wb.createFont();
 		font.setBold(true);
 		font.setFontHeightInPoints((short) 14);
+		font.setFontName("Times New Roman");
 		cellRed.setFont(font);
 		cellRed.setAlignment(HorizontalAlignment.CENTER);
 		Cell cellOne = rowOne.createCell(DESIGNATION_COLUMN);
